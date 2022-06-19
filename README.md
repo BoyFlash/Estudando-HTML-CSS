@@ -17,8 +17,8 @@ Será necessário abrir seu navegador e acessar: `http: // localhost: 5500 /`
 ## Autor
 Desenvolvido por Isaque William 👋 Fique a vontade para se conectar
 
-## Desafio dia 01 - 3D Responsive Touch Slider
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2001/gif/Slide3D.gif?raw=true">
-    <img src="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2001/gif/Slide3D.gif?raw=true" alt="Dia 01" style="max-width: 100%;">
+## Desafio dia 01 - Pencil Shape with Html Css
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/BoyFlash/Estudando-HTML-CSS/tree/main/01">
+    <img src="https://github.com/BoyFlash/Estudando-HTML-CSS/blob/main/01/Lapis-img.PNG" alt="Dia 01" style="max-width: 100%;">
 </a> </br>
 
